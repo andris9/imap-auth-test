@@ -1,0 +1,12 @@
+{
+  "imap": {
+    "host": "ethereal.email",
+    "port": 993,
+    "secure": true,
+    "auth": {
+      "user": "garland.mcclure71@ethereal.email",
+      "pass": "mW6e4wWWnEd3H4hT5B"
+    }
+  },
+  "check_interval": 60000
+}
